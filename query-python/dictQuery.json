@@ -1,0 +1,35 @@
+{
+    "entity" : {
+        "entityId": "g_entity_id", 
+        "holdingEntityId": "g_holding_entity_id", 
+        "countryId": "g_country_id", 
+        "entityLocalId": "gf_entity_id", 
+        "countryDataId": "g_country_data_id",
+        "languageDataId": "g_language_data_id",
+        "entityName": "gf_entity_name", 
+        "entityDesc": "gf_entity_desc", 
+        "institutionType": "g_institution_type", 
+        "bbvaOwnedSecurityId": "g_bbva_owned_security_co_id"
+    },
+    "currency" : {
+        "currencyId": "g_currency_id",
+        "currencyNumericId" : "g_currency_numeric_id",
+        "countryDataId": "g_country_data_id",
+        "languageDataId": "g_language_data_id",
+        "currencyName": "g_currency_name", 
+        "currencyAbbreviatedName": "g_currency_abbreviated_name", 
+        "currencyPluralName": "g_currency_plural_name",  
+        "currencyDecimalNumber": "gf_currency_decimal_number"
+    },
+    "country" : {
+        "countryId": "g_country_id",
+        "countryLargeId": "g_country_large_id", 
+        "countryNumericId" : "g_country_numeric_id",
+        "countryDataId": "g_country_data_id",
+        "languageDataId": "g_language_data_id",
+        "countryName": "g_country_name",
+        "countryShortName": "g_country_short_name",
+        "currencyId": "g_currency_id",
+        "prefixPhoneId": "g_prefix_phone_id"    
+    }
+}
